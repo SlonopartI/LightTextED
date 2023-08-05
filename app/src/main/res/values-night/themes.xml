@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TextEditor" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">#257C0D</item>
+        <item name="colorPrimaryDark">#09390B</item>
+        <item name="colorAccent">@color/black</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
