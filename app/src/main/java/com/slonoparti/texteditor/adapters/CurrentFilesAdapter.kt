@@ -12,7 +12,7 @@ import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.slonoparti.texteditor.MainActivity
 import com.slonoparti.texteditor.R
-import com.slonoparti.texteditor.fileinteractions.models.OpenFileTask
+import com.slonoparti.texteditor.fileinteractions.tasks.OpenFileTask
 import java.io.File
 
 class CurrentFilesAdapter: RecyclerView.Adapter<RecyclerView.ViewHolder>() {

@@ -10,7 +10,7 @@ import androidx.fragment.app.FragmentActivity
 import com.mikepenz.iconics.Iconics.applicationContext
 import com.slonoparti.texteditor.MainActivity
 import com.slonoparti.texteditor.R
-import com.slonoparti.texteditor.fileinteractions.models.OpenFileTask
+import com.slonoparti.texteditor.fileinteractions.tasks.OpenFileTask
 import ru.bartwell.exfilepicker.ExFilePicker
 import java.io.File
 

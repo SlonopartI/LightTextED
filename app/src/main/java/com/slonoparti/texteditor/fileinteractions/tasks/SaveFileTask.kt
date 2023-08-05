@@ -1,4 +1,4 @@
-package com.slonoparti.texteditor.fileinteractions.models
+package com.slonoparti.texteditor.fileinteractions.tasks
 
 import android.app.Activity
 import android.content.Intent

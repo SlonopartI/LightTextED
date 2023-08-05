@@ -22,8 +22,8 @@ import com.mikepenz.materialdrawer.model.interfaces.IDrawerItem
 import com.slonoparti.texteditor.activities.SettingsActivity
 import com.slonoparti.texteditor.adapters.CurrentFilesAdapter
 import com.slonoparti.texteditor.fileinteractions.FileFragment
-import com.slonoparti.texteditor.fileinteractions.models.OpenFileTask
-import com.slonoparti.texteditor.fileinteractions.models.SaveFileTask
+import com.slonoparti.texteditor.fileinteractions.tasks.OpenFileTask
+import com.slonoparti.texteditor.fileinteractions.tasks.SaveFileTask
 import com.slonoparti.texteditor.textclasses.CustomEditText
 import com.slonoparti.texteditor.textclasses.CustomTextWatcher
 import ru.bartwell.exfilepicker.ExFilePicker
